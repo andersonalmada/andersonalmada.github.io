@@ -58,8 +58,8 @@ plugins:
 
 author:
   name   : "Anderson Almada"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I am Master in Telecommunications Engineering at [Federal University of Ceará](http://www.ufc.br) I have been working as assistant professor in [Federal University of Ceará](http://www.ufc.br), [Campus Crateus](http://www.crateus.ufc.br) since 2016."
+  avatar : "/assets/images/bio-photo.jpg"  
+  bio    : "I am Graduated in Teleinformatics Engineering, with emphasis in Computer Engineering, from the Federal University of Ceará (2015) and master's degree in Computer Science from the Federal University of Ceará (2017). I am currently assistant professor at the Federal University of Ceará at Campus Crateús. Works in Software Engineering area applied to Mobile Cloud Computing."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
