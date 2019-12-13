@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Marciel Barros
-email: marciel@crateus.ufc.br
+title: Anderson Almada
+email: almada@crateus.ufc.br
 description: >- # this means to ignore newlines until "baseurl:"
-  Marciel Barros Pereira on GitHub Pages
-twitter_username: marcielbp
-github_username: marcielbp
+  Anderson Almada on GitHub Pages
+twitter_username: 
+github_username: andersonalmada
 minimal_mistakes_skin: air
 logo: "/assets/images/88x88.png"
 search: true
@@ -66,25 +66,25 @@ author:
       url: "https://crateus.ufc.br/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/marcielbp"
+      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/marcielbp"
+      url: "https://github.com/andersonalmada"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/marcielbp"
+      url: "https://instagram.com/"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/marcielbp"
+      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/marcielbp"
+      url: "https://github.com/andersonalmada"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/marcielbp"
+      url: "https://instagram.com/"
 
 defaults:
   # _posts
