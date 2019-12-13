@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Anderson Almada on GitHub Pages
 twitter_username: 
 github_username: andersonalmada
-minimal_mistakes_skin: air
+minimal_mistakes_skin: contrast
 logo: "/assets/images/88x88.png"
 search: true
 
@@ -57,7 +57,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Marciel Barros"
+  name   : "Anderson Almada"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "I am Master in Telecommunications Engineering at [Federal University of Ceará](http://www.ufc.br) I have been working as assistant professor in [Federal University of Ceará](http://www.ufc.br), [Campus Crateus](http://www.crateus.ufc.br) since 2016."
   links:
